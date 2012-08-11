@@ -5,6 +5,7 @@
 > while an autobiography is history,
 > requiring research, dates, facts double-checked.  
 > --- Gore Vidal
+
 <!-- end of quote -->
 
 > Hindsight is 50/50.
