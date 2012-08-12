@@ -1,12 +1,3 @@
-% In Hindsight - a memoir
-% Evan Dower
+# Introduction
 
-> a memoir is how one remembers one's own life,
-> while an autobiography is history,
-> requiring research, dates, facts double-checked.  
-> -- Gore Vidal
-
-<!-- end of quote -->
-
-> Hindsight is 50/50.  
-> -- Geoff Pare
+So... what's the deal with writing a memoir, anyway?

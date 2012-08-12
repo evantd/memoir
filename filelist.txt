@@ -1,2 +1,7 @@
+memoir/front.md
+memoir/dedication.md
 memoir/intro.md
+memoir/birth.md
+memoir/preschool.md
+memoir/misc.md
 license.md
