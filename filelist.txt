@@ -1,2 +1,2 @@
-memoir/memoir.md
+memoir/intro.md
 license.md
